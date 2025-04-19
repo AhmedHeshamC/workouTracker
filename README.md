@@ -210,12 +210,21 @@ All endpoints are versioned under `/api/v1`.
 - **CORS:** Configured via the cors middleware; adjust allowed origins for production.
 - **JWT Authentication:** All endpoints (except signup and login) require a valid JWT in the `Authorization` header.
 
-## License
-This project is licensed under the ISC License.
-
-## Author
-- Ahmed Hesham
 
 ## Project URLs
 - https://roadmap.sh/projects/fitness-workout-tracker
 - https://github.com/AhmedHeshamC/workouTracker
+
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create feature branch
+3. Write tests
+4. Submit a PR
+
+Please adhere to the existing code style and coverage requirements.
+
+---
+
+© 2025 Ahmed Hesham. MIT License.
